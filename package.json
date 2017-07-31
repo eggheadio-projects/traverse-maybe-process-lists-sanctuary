@@ -1,0 +1,11 @@
+{
+  "scripts": {
+    "start": "yarn babel-node ./traverse-maybe.js  "
+  },
+  "dependencies": {
+    "sanctuary": "^0.13.2"
+  },
+  "devDependencies": {
+    "babel-cli": "^6.24.1"
+  }
+}
