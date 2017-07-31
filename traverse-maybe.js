@@ -1,5 +1,5 @@
-let { Just, Nothing, of, traverse, justs, fromMaybe,
-equals, gte, mult, map, compose, join, mean } = require('sanctuary')
+import { Just, Nothing, of, traverse, justs, fromMaybe,
+equals, gte, mult, map, compose, join, mean } from 'sanctuary'
 
 
 //   3 Player Team:    Player1    Player2    Player3
